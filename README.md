@@ -22,7 +22,7 @@ Whata App User BOT___✔
 
 REDGANG MD whatsapp bot is,
 
-      REDGANG MD whatsapp bot is an easy to use whatsapp robot.   |  Blue Lion whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      REDGANG MD whatsapp bot is an easy to use whatsapp robot.   |  REDGANG-MD whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 <p align="center">
 
