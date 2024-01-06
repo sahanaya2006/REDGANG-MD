@@ -1,12 +1,5 @@
-setup:
-    addons:
-    - plan: heroku-postgresql
 build:
-    docker:
-        web: Dockerfile
-release:
-    image: web
-    command:
-        - python manage.py collectstatic --noinput
+  docker:
+      worker: /lib/Dockerfile
 run:
-    web: gunicorn books.wsgi
+   worker: npm start
