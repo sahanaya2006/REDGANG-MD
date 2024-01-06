@@ -1,11 +1,12 @@
 {
-  "name": "redgang-md",
-  "version": "1.0.0",
-  "description": "*Removed for question*",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
+  "name": "hello-world",
+  "description": "hello world test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": “4.6.1"
+  }
+}
   "scripts": {
     "start": "node server.js",
     "test": "jest --coverage",
