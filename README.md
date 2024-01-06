@@ -1,8 +1,8 @@
 # REDGANG-MD
 Whata App User BOT___✔
 <div align="center">
-    ⏬<b>🔥🌟𝐑𝐄𝐃𝐆𝐀𝐍𝐆-𝐌𝐃🌟🔥</b>⏬</b> 
-______________________________________________
+    ✨<b>🔥🌟𝐑𝐄𝐃𝐆𝐀𝐍𝐆-𝐌𝐃🌟🔥</b>✨</b> 
+
 
   
 <div align="center">
