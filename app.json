@@ -31,7 +31,7 @@
      "value": "https://github.com/sahanaya2006/sahanaya2006/blob/main/WhatsApp%20Image%202024-01-06%20at%2000.04.32.jpeg?raw=true"
     },
     "ANTI_BAD_WORD": {
-    "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
+    "description": "නරක වචනයක්",
      "required" :false
     },
    "ANTILINK_VALUES": {
