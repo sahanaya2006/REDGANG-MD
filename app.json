@@ -96,7 +96,7 @@
      "value": "Sahan;Secktor",
      "required": false 
   },
-  "heroku": {
+  "HEROKU": {
     "description": "Weather it is on heroku or not",
      "value": "true",
      "required": false 
