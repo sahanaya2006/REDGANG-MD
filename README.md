@@ -8,7 +8,7 @@ Whata App User BOT___✔
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+REDGANG+MD+WHATSAPP+BOT;MADE+BY+REDGANG+TEAM)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+REDGANG+MD+WHATSAPP+USER+BOT;MADE+BY+REDGANG+TEAM+IN+SRI+LANKA)](https://git.io/typing-svg)
 
    <p align="center">
 <a href="https://github.com/sahanaya2006">
