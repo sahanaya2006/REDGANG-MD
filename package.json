@@ -1,5 +1,5 @@
 {
-               "name": "Redgang-Md",
+               "name": "Redgang-Md", 
                "version": "4.0",
                "description": "Multi device whatsapp bot by Redgang.",
                "main": "lib/client.js",
