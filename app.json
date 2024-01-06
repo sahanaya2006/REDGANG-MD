@@ -11,11 +11,11 @@
       "value": "Sahan Maduwantha"
   },
   "ALIVE_MESSAGE": {
-    "description": "Alive message for bot",
+    "description": "ඔබට අවශ්‍ය Alive මැසෙජ් එක මෙතනට යොදන්න 👉🏻",
      "required" :false
     },
     "AUTO_STATUS_SAVER": {
-      "description": "Automatically saves status of every person and sends in log number.",
+      "description": "ස්ටෙටස් විඩියෝ ඔටො බලන්න ඔනි නම් true දෙන්න",
        "required" :false
       },
     "HEROKU_API_KEY": {
@@ -50,7 +50,7 @@
      "value": "true"
     },
       "READ_MESSAGE": {
-    "description": "Fill the value true if you want bot to read all messages.",
+    "description": "එයාලා මැසෙජ් එකක් දාපු ගමන් මැසෙජ් එක සීන් වෙන්න හදන්න true දෙන්න",
      "required" :false,
      "value": "true"
     },
@@ -79,11 +79,11 @@
     "value": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+    "description": "බොට්ගේ පොටො එකෙ ලින්ක් එකක්",
      "value": "SECKTOR"
   },
     "WORKTYPE": {
-  "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
+  "description": "බොට් ඔයාට විතරක් ඔනි නම් private දාන්න.හැමෝටම ඔනි නම් public දෙන්න",
          "value": "public"
   },
       "AUTO_REACTION": {
