@@ -24,7 +24,11 @@ REDGANG MD whatsapp bot is,
 
       REDGANG MD whatsapp bot is an easy to use whatsapp robot.   |  Blue Lion whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
+<p align="center">
 
+  <a aria-label="WhatsApp Supported Group" href="https://chat.whatsapp.com/I4QgTL8qrnR2KoXoRXwhHj" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   
  
 ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
