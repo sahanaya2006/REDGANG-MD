@@ -1,5 +1,33 @@
 # REDGANG-MD
 Whata App User BOT___✔
+<div align="center">
+    ⏬<b>🌐🤍𝐑𝐄𝐃𝐆𝐀𝐍𝐆-𝐌𝐃🤍🌐</b>⏬</b>
+
+  
+<div align="center">
+</p>
+
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+REDGANG+MD+WHATSAPP+BOT;MADE+BY+REDGANG+TEAM)](https://git.io/typing-svg)
+
+   <p align="center">
+<a href="https://github.com/sahanaya2006">
+    <img src="https://avatars.githubusercontent.com/u/151435240?v=4" width="700px">
+  </a>
+  
+
+# REDGANG-MD Whatsapp Bot
+
+
+REDGANG MD whatsapp bot is,
+
+      REDGANG MD whatsapp bot is an easy to use whatsapp robot.   |  Blue Lion whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+
+
+  
+ 
+### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
+ ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SahanMadu/Nodejs)
 
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## ```HEROKU DEPLOYMENT```
