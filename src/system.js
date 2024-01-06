@@ -18,7 +18,7 @@ let txt = `╭───── *『 MONGODB NOTES 』* ───◆
 ┃  ╰───────────────────◆
 ┃
 ┃  ┌┤  *✯---- GET ALL NOTES ----⦿*
-┃  │✭ *Cmd :* ${prefix}notes all
+┃  │✭ *Cmd :* ${prefix}notes all 
 ┃  │✭ *Usage :* Read/Get All Saved Notes 
 ┃  ╰───────────────────◆
 ┃
