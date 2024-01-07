@@ -31,7 +31,8 @@ REDGANG MD whatsapp bot is,
   <a aria-label="WhatsApp Supported Group" href="https://chat.whatsapp.com/I4QgTL8qrnR2KoXoRXwhHj" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  
+
+  Click [QR Scan & Deploy](https://659acd2702b38.site123.me/)
  
 ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
  ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SahanMadu/Nodejs)
@@ -40,4 +41,3 @@ REDGANG MD whatsapp bot is,
 ## ```HEROKU DEPLOYMENT```
 # [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahanaya2006/REDGANG-MD)
 
-Click [QR Scan & Deploy](https://659acd2702b38.site123.me/)
