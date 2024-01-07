@@ -5,7 +5,7 @@ const util = require('util')
 //---------------------------------------------------------------------------
 cmd({
             pattern: "addnote",
-            category: "owner",
+            category: "owner", 
             desc: "Adds a note on db.",
             filename: __filename
         },
