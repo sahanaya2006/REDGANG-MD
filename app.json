@@ -1,5 +1,5 @@
 {
-  "name": "SAVIYA-MD by excel ",
+  "name": "REDGANG-MD ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/e7ff19ea6b6ee33f66936.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "EwingBot", "Secktor","EWINGMD","theme bot","multi device","baileys","excel"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Vajira / Saviya"
+      "value": "Sahan Maduwantha"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -72,23 +72,23 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94722617699"
+       "value": "94760310266"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@savigaming2009/SAVIYA-MD-BOT-QR"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
-       "value": "Replace Me(optional)",
+       "value": "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",
        "required" :false
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu"
+    "value": "mongodb+srv://Sahan:Sahan123456@cluster0.2s8k9t2.mongodb.net/"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are DARK-MD and many more..",
-     "value": "SAVIYA"
+     "value": "REDGANG"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "Vajira;Saviya",
+     "value": "Sahan;Redgang",
      "required": false 
   },
   "heroku": {
