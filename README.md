@@ -24,6 +24,8 @@ REDGANG MD whatsapp bot is,
 
       REDGANG MD whatsapp bot is an easy to use whatsapp robot.   |  REDGANG-MD whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
+
+
 <p align="center">
 
   <a aria-label="WhatsApp Supported Group" href="https://chat.whatsapp.com/I4QgTL8qrnR2KoXoRXwhHj" target="_blank">
@@ -38,4 +40,4 @@ REDGANG MD whatsapp bot is,
 ## ```HEROKU DEPLOYMENT```
 # [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahanaya2006/REDGANG-MD)
 
-***Click [Vercel App](https://659acd2702b38.site123.me/)
+Click [QR Scan & Deploy](https://659acd2702b38.site123.me/)
