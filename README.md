@@ -37,3 +37,43 @@ REDGANG MD whatsapp bot is,
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## ```HEROKU DEPLOYMENT```
 # [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahanaya2006/REDGANG-MD)
+
+***Click [Vercel App](<!DOCTYPE html>
+<!-- saved from url=(0030)https://vajira-two.vercel.app/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CSS ANIMATED BUTTONS</title>
+
+    <link rel="stylesheet" href="./CSS ANIMATED BUTTONS_files/style.css">
+
+  </head>
+
+  <body>
+
+    <a href="https://github.com/sahanaya2006/REDGANG-MD/fork" style="--clr: #E74C3C; --i: 0">
+
+      <span>FORK</span>
+
+    </a>
+
+    <a href="https://replit.com/@SahanMadu/REDGANG-MD-2" style="--clr: #00ccff; --i: 1">
+
+      <span>SCAN QR</span>
+
+    </a>
+
+    <a href="  https://heroku.com/deploy?template=https://github.com/sahanaya2006/REDGANG-MD" style="--clr: #22e622; --i: 2">
+
+     <span>DEPLOY</span>
+
+    </a>
+
+  
+
+
+</body></html>)***
