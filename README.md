@@ -35,7 +35,7 @@ REDGANG MD whatsapp bot is,
 [ℚℝ 𝕊𝕔𝕒𝕟 & 𝔻𝕖𝕡𝕝𝕠𝕪](http://659acd2702b38.site123.me/)
  
 ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
- ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SahanMadu/Nodejs#index.js)
+ ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SahanMadu/REDGANG-MD#index.js)
 
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## ```HEROKU DEPLOYMENT```
