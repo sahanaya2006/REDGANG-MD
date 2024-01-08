@@ -10,8 +10,8 @@ global.email = 'sam@secktor.live'
 global.github = 'https://github.com/sahanaya2006/REDGANG-MD' 
 global.location = 'Asia/Colombo'
 global.gurl = 'https://instagram.com/' // add your username 
-global.sudo = process.env.SUDO || '919628516236'
-global.devs = '919628516236';
+global.sudo = process.env.SUDO || '94760310266'
+global.devs = '94760310266';
 global.website = 'https://github.com/sahanaya2006/REDGANG-MD' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://avatars.githubusercontent.com/u/151435240?v=4'
 module.exports = {
