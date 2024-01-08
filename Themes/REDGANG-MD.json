@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "Sahan OFC",
+  "AUTHOR": "Sahan",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": {
@@ -12,7 +12,7 @@
       "global": {
           "greet2": "Konnichiwa!(💚ω💚)",
           "botName": "REDGANG-MD",
-          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝-𝐵𝑜𝑡𝑡𝑜",
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝-𝐵𝑜𝑡",
           "pic1": "https://telegra.ph/file/0b5a7839e8ee21874921e.jpg",
           "pic2": "https://telegra.ph/file/0b5a7839e8ee21874921e.jpg",
           "pic3": "https://telegra.ph/file/0b5a7839e8ee21874921e.jpg",
