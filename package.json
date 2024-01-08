@@ -1,15 +1,15 @@
 {
                "name": "Redgang-md",
                "version": "0.0.8",
-               "description": "Multi device whatsapp bot by Samanytofficial.",
+               "description": "Multi device whatsapp bot by Sahan.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0", 
                "scripts": {
-                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name xlicon",
-                  "stop": "pm2 stop xlicon"
+                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name Redgang-MD",
+                  "stop": "pm2 stop Redgang-MD"
                },
-               "author": "salmanytofficial",
+               "author": "Sahan",
                "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -69,11 +69,11 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/sahanaya2006/REDGANG-MD"
+                 "url": "git+https://github.com/sahanaya2006/REDGANG-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/sahanaya2006/REDGANG-MD"
+                 "url": "https://github.com/sahanaya2006/REDGANG-MD/issues"
                   },
-                 "homepage": "https://github.com/sahanaya2006/REDGANG-MD"
+                 "homepage": "https://github.com/sahanaya2006/REDGANG-MD#readme"
                   }
  
