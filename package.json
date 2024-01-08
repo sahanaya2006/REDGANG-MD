@@ -69,11 +69,11 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/sahanaya2006/REDGANG-MD.git"
+                 "url": "git+https://github.com/sahanaya2006/REDGANG-MD"
                   },
                  "bugs": {
-                 "url": "https://github.com/sahanaya2006/REDGANG-MD/issues"
+                 "url": "https://github.com/sahanaya2006/REDGANG-MD"
                   },
-                 "homepage": "https://github.com/sahanaya2006/REDGANG-MD#readme"
+                 "homepage": "https://github.com/sahanaya2006/REDGANG-MD"
                   }
  
