@@ -1,13 +1,13 @@
 {
-               "name": "Redgang-md",
+               "name": "REDGANG-MD",
                "version": "0.0.8",
                "description": "Multi device whatsapp bot by Sahan.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0", 
                "scripts": {
-                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name Redgang-MD",
-                  "stop": "pm2 stop Redgang-MD"
+                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name REDGANG-MD",
+                  "stop": "pm2 stop REDGANG-MD"
                },
                "author": "Sahan",
                "dependencies": {
